@@ -1,0 +1,5 @@
+class Queue[A] {
+
+  //todo
+
+}
